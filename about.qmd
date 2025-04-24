@@ -1,0 +1,5 @@
+---
+title: "About tutorial 9, creating a new website to try out"
+---
+
+About this site, this site is created solely for DSCI 310's tutorial 9. 
