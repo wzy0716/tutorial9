@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About tutorial 9, creating a new website to try out",
-    "section": "",
-    "text": "About this site, this site is created solely for DSCI 310’s tutorial 9."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "tutorial9",
     "section": "",
     "text": "This is a Quarto website created for DSCI 310’s tutorial 9.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About tutorial 9, creating a new website to try out",
+    "section": "",
+    "text": "About this site, this site is created solely for DSCI 310’s tutorial 9."
   }
 ]
